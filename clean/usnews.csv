@@ -1,0 +1,349 @@
+UNITID,Institution Name,GSR,US News National Rank,US News Score,US News Adjusted
+150163,Butler University,100,,98,74
+186131,Princeton University,100,1,100,100
+166027,Harvard University,96,2,98,98
+130794,Yale University,93,3,97,97
+190150,Columbia University in the City of New York,100,5,95,95
+243744,Stanford University,78,5,95,95
+198419,Duke University,100,8,92,92
+215062,University of Pennsylvania,93,8,92,92
+182670,Dartmouth College,94,11,90,90
+147767,Northwestern University,93,12,89,89
+217156,Brown University,100,14,87,87
+190415,Cornell University,100,15,85,85
+227757,Rice University,83,15,85,85
+152080,University of Notre Dame,100,15,85,85
+221999,Vanderbilt University,82,15,85,85
+131496,Georgetown University,71,20,78,78
+110635,University of California-Berkeley,40,20,78,78
+123961,University of Southern California,67,23,77,77
+181002,Creighton University,100,,100,75
+198516,Elon University,100,,100,75
+198695,High Point University,100,,100,75
+217402,Providence College,40,,100,75
+110662,University of California-Los Angeles,50,24,75,75
+234076,University of Virginia-Main Campus,70,24,75,75
+170976,University of Michigan-Ann Arbor,91,27,74,74
+199847,Wake Forest University,70,27,74,74
+129242,Fairfield University,92,,96,72
+122931,Santa Clara University,100,,95,71
+199120,University of North Carolina at Chapel Hill,50,30,71,71
+164924,Boston College,67,31,70,70
+117946,Loyola Marymount University,77,,92,69
+163046,Loyola University Maryland,92,,92,69
+231624,College of William and Mary,92,32,68,68
+153269,Drake University,90,,91,68
+217864,Citadel Military College of South Carolina,91,,90,67
+139755,Georgia Institute of Technology-Main Campus,80,34,67,67
+198385,Davidson College,100,,89,66
+102049,Samford University,100,,88,66
+152600,Valparaiso University,77,,88,66
+206622,Xavier University,91,,88,66
+143358,Bradley University,100,,87,65
+137546,Stetson University,100,,87,65
+110705,University of California-Santa Barbara,40,37,65,65
+164988,Boston University,100,39,64,64
+190099,Colgate University,100,,86,64
+235316,Gonzaga University,90,,86,64
+167358,Northeastern University,92,39,64,64
+160755,Tulane University of Louisiana,100,39,64,64
+219709,Belmont University,100,,84,63
+213543,Lehigh University,100,44,63,63
+110644,University of California-Davis,78,44,63,63
+145637,University of Illinois at Urbana-Champaign,70,44,63,63
+135726,University of Miami,91,44,63,63
+240444,University of Wisconsin-Madison,73,44,63,63
+217165,Bryant University,92,,83,62
+192819,Marist College,70,,83,62
+214777,Pennsylvania State University-Main Campus,100,50,62,62
+121150,Pepperdine University,70,50,62,62
+134130,University of Florida,88,50,62,62
+216597,Villanova University,100,50,62,62
+204796,Ohio State University-Main Campus,64,54,61,61
+150534,University of Evansville,92,,82,61
+236948,University of Washington-Seattle Campus,92,54,61,61
+131469,George Washington University,92,56,60,60
+232423,James Madison University,80,,81,60
+130226,Quinnipiac University,92,,81,60
+215770,Saint Joseph's University,75,,81,60
+228246,Southern Methodist University,85,56,60,60
+228778,The University of Texas at Austin,88,56,60,60
+139959,University of Georgia,100,56,60,60
+233374,University of Richmond,92,,80,60
+191241,Fordham University,83,60,59,59
+243780,Purdue University-Main Campus,92,60,59,59
+196413,Syracuse University,50,60,59,59
+129020,University of Connecticut,22,60,59,59
+163286,University of Maryland-College Park,83,60,59,59
+197869,Appalachian State University,69,,78,58
+211291,Bucknell University,100,,78,58
+217882,Clemson University,91,66,58,58
+166124,College of the Holy Cross,100,,78,58
+230038,Brigham Young University-Provo,71,68,57,57
+213385,Lafayette College,91,,76,57
+192703,Manhattan College,87,,76,57
+215293,University of Pittsburgh-Pittsburgh Campus,77,68,57,57
+209825,University of Portland,92,,76,57
+217819,College of Charleston,78,,75,56
+186380,Rutgers University-New Brunswick,89,70,56,56
+236595,Seattle University,94,,75,56
+223232,Baylor University,71,71,55,55
+174066,University of Minnesota-Twin Cities,73,71,55,55
+131159,American University,91,74,54,54
+110422,California Polytechnic State University-San Luis Obispo,75,,72,54
+123554,Saint Mary's College of California,75,,72,54
+228723,Texas A & M University-College Station,55,74,54,54
+166629,University of Massachusetts-Amherst,67,74,54,54
+199218,University of North Carolina Wilmington,46,,72,54
+154095,University of Northern Iowa,82,,73,54
+233921,Virginia Polytechnic Institute and State University,80,74,54,54
+204024,Miami University-Oxford,60,79,53,53
+130943,University of Delaware,73,79,53,53
+169716,University of Detroit Mercy,67,,71,53
+232265,Hampton University,54,,70,52
+171100,Michigan State University,63,82,52,52
+228875,Texas Christian University,69,82,52,52
+153658,University of Iowa,88,82,52,52
+189705,Canisius College,94,,68,51
+151351,Indiana University-Bloomington,91,86,51,51
+239105,Marquette University,67,86,51,51
+186283,Rider University,90,,68,51
+196079,SUNY at Binghamton,50,86,51,51
+127060,University of Denver,100,86,51,51
+122436,University of San Diego,69,86,51,51
+207971,University of Tulsa,80,86,51,51
+134097,Florida State University,92,92,50,50
+218070,Furman University,100,,67,50
+163462,Mount St Mary's University,79,,67,50
+199193,North Carolina State University at Raleigh,71,92,50,50
+215743,Saint Francis University,91,,67,50
+195164,St Bonaventure University,90,,67,50
+126614,University of Colorado Boulder,86,92,50,50
+231174,University of Vermont,100,92,50,50
+212054,Drexel University,100,96,49,49
+196097,Stony Brook University,100,96,49,49
+100858,Auburn University,56,99,48,48
+213367,La Salle University,100,,65,48
+146719,Loyola University Chicago,90,99,48,48
+185572,Monmouth University,93,,64,48
+196088,University at Buffalo,75,99,48,48
+110653,University of California-Irvine,86,,64,48
+197197,Wagner College,90,,65,48
+144892,Eastern Illinois University,74,,63,47
+100751,The University of Alabama,100,103,47,47
+221759,The University of Tennessee-Knoxville,70,103,47,47
+209551,University of Oregon,38,103,47,47
+218964,Winthrop University,100,,63,47
+193973,Niagara University,86,,62,46
+130253,Sacred Heart University,63,,62,46
+183044,University of New Hampshire-Main Campus,100,107,46,46
+122612,University of San Francisco,25,107,46,46
+218663,University of South Carolina-Columbia,75,107,46,46
+222178,Abilene Christian University,76,,61,45
+198136,Campbell University,71,,60,45
+153603,Iowa State University,78,111,45,45
+164076,Towson University,60,,61,45
+202480,University of Dayton,100,111,45,45
+178396,University of Missouri-Columbia,75,111,45,45
+181464,University of Nebraska-Lincoln,57,111,45,45
+207500,University of Oklahoma-Norman Campus,53,111,45,45
+230764,University of Utah,92,111,45,45
+234085,Virginia Military Institute,85,,60,45
+149772,Western Illinois University,77,,60,45
+232566,Longwood University,89,,59,44
+186584,Seton Hall University,80,118,44,44
+216339,Temple University,77,118,44,44
+110671,University of California-Riverside,50,118,44,44
+155317,University of Kansas,100,118,44,44
+157951,Western Kentucky University,77,,59,44
+218973,Wofford College,92,,59,44
+144740,DePaul University,60,124,43,43
+212106,Duquesne University,83,124,43,43
+131520,Howard University,71,124,43,43
+157401,Murray State University,86,,58,43
+149231,Southern Illinois University-Edwardsville,88,,58,43
+104179,University of Arizona,91,124,43,43
+104151,Arizona State University-Tempe,93,129,42,42
+126818,Colorado State University-Fort Collins,83,129,42,42
+184603,Fairleigh Dickinson University-Metropolitan Campus,89,,57,42
+179566,Missouri State University-Springfield,82,,56,42
+200004,Western Carolina University,83,,56,42
+191649,Hofstra University,100,133,41,41
+191931,Iona College,85,,55,41
+157085,University of Kentucky,82,133,41,41
+218742,University of South Carolina-Upstate,62,,55,41
+155399,Kansas State University,88,135,40,40
+159391,Louisiana State University and Agricultural & Mechanical College,75,135,40,40
+140447,Mercer University,80,135,40,40
+185828,New Jersey Institute of Technology,67,135,40,40
+106397,University of Arkansas,50,135,40,40
+201885,University of Cincinnati-Main Campus,50,135,40,40
+176017,University of Mississippi,91,135,40,40
+232186,George Mason University,90,143,39,39
+237525,Marshall University,70,,53,39
+209542,Oregon State University,75,143,39,39
+233277,Radford University,77,,53,39
+221768,The University of Tennessee-Martin,64,,53,39
+136172,University of North Florida,71,,52,39
+240277,University of Wisconsin-Green Bay,71,,53,39
+236939,Washington State University,50,143,39,39
+204857,Ohio University-Main Campus,73,146,38,38
+122409,San Diego State University,50,146,38,38
+196060,SUNY at Albany,73,146,38,38
+145813,Illinois State University,90,152,37,37
+207388,Oklahoma State University-Main Campus,57,152,37,37
+186432,Saint Peter's University,77,,50,37
+179557,Southeast Missouri State University,67,,50,37
+145600,University of Illinois at Chicago,56,152,37,37
+166513,University of Massachusetts-Lowell,76,152,37,37
+106458,Arkansas State University-Main Campus,77,,49,36
+218724,Coastal Carolina University,65,,48,36
+134945,Jacksonville University,100,,48,36
+218539,Presbyterian College,100,,49,36
+179159,Saint Louis University,67,,49,36
+195474,Siena College,83,,48,36
+221740,The University of Tennessee-Chattanooga,50,,48,36
+100663,University of Alabama at Birmingham,71,159,36,36
+163268,University of Maryland-Baltimore County,78,159,36,36
+217484,University of Rhode Island,67,159,36,36
+137351,University of South Florida-Main Campus,62,159,36,36
+122755,San Jose State University,36,,47,35
+195809,St John's University-New York,82,164,35,35
+234030,Virginia Commonwealth University,82,164,35,35
+110583,California State University-Long Beach,92,,46,34
+128771,Central Connecticut State University,78,,46,34
+102368,Troy University,87,,46,34
+141574,University of Hawaii at Manoa,64,169,34,34
+219602,Austin Peay State University,85,,44,33
+156620,Eastern Kentucky University,92,,44,33
+192439,LIU Brooklyn,79,,45,33
+157386,Morehead State University,70,,45,33
+199157,North Carolina Central University,62,,45,33
+195173,St Francis College,93,,45,33
+106704,University of Central Arkansas,63,,45,33
+142285,University of Idaho,58,171,33,33
+157289,University of Louisville,77,171,33,33
+120883,University of the Pacific,93,,45,33
+240727,University of Wyoming,64,171,33,33
+150136,Ball State University,46,176,32,32
+433660,Florida Gulf Coast University,50,,43,32
+219976,Lipscomb University,70,176,32,32
+176080,Mississippi State University,45,176,32,32
+157447,Northern Kentucky University,76,,43,32
+229115,Texas Tech University,88,176,32,32
+132903,University of Central Florida,80,176,32,32
+187985,University of New Mexico-Main Campus,91,176,32,32
+130934,Delaware State University,64,,42,31
+161253,University of Maine,93,183,31,31
+238032,West Virginia University,85,183,31,31
+175342,Alcorn State University,50,,40,30
+203517,Kent State University at Kent,80,188,30,30
+200332,North Dakota State University-Main Campus,70,188,30,30
+207582,Oral Roberts University,67,,40,30
+215655,Robert Morris University,83,188,30,30
+129525,University of Hartford,100,188,30,30
+199111,University of North Carolina at Asheville,85,,40,30
+225627,University of the Incarnate Word,76,,40,30
+201441,Bowling Green State University-Main Campus,90,194,29,29
+225511,University of Houston,22,194,29,29
+172699,Western Michigan University,85,194,29,29
+151111,Indiana University-Purdue University-Indianapolis,64,197,28,28
+182290,University of Nevada-Reno,58,197,28,28
+110565,California State University-Fullerton,69,202,27,27
+169248,Central Michigan University,100,202,27,27
+217688,Charleston Southern University,100,,36,27
+101480,Jacksonville State University,53,,36,27
+159647,Louisiana Tech University,60,202,27,27
+159717,McNeese State University,86,,36,27
+219356,South Dakota State University,91,202,27,27
+199139,University of North Carolina at Charlotte,70,202,27,27
+200280,University of North Dakota,70,202,27,27
+219471,University of South Dakota,100,202,27,27
+100654,Alabama A & M University,25,,35,26
+198464,East Carolina University,62,210,26,26
+235097,Eastern Washington University,83,,35,26
+159966,Nicholls State University,75,,35,26
+232982,Old Dominion University,93,210,26,26
+106412,University of Arkansas at Pine Bluff,42,,35,26
+178402,University of Missouri-Kansas City,75,210,26,26
+147703,Northern Illinois University,75,214,25,25
+149222,Southern Illinois University-Carbondale,50,214,25,25
+180489,The University of Montana,62,214,25,25
+110556,California State University-Fresno,70,220,24,24
+110608,California State University-Northridge,71,,33,24
+198561,Gardner-Webb University,70,220,24,24
+188030,New Mexico State University-Main Campus,43,220,24,24
+230603,Southern Utah University,54,,33,24
+199148,University of North Carolina at Greensboro,82,220,24,24
+176372,University of Southern Mississippi,71,220,24,24
+230728,Utah State University,78,220,24,24
+225399,Houston Baptist University,67,,30,22
+228431,Stephen F Austin State University,53,,30,22
+230782,Weber State University,100,,30,22
+110617,California State University-Sacramento,79,,29,21
+100724,Alabama State University,46,221,20,20
+132602,Bethune-Cookman University,56,,20,20
+142115,Boise State University,70,221,20,20
+110486,California State University-Bakersfield,77,,20,20
+144005,Chicago State University,53,,20,20
+202134,Cleveland State University,100,221,20,20
+162283,Coppin State University,62,,20,20
+220075,East Tennessee State University,75,221,20,20
+169798,Eastern Michigan University,77,221,20,20
+133650,Florida Agricultural and Mechanical University,53,221,20,20
+133669,Florida Atlantic University,69,221,20,20
+133951,Florida International University,65,221,20,20
+139931,Georgia Southern University,89,221,20,20
+139940,Georgia State University,75,221,20,20
+159009,Grambling State University,43,,20,20
+104717,Grand Canyon University,76,221,20,20
+142276,Idaho State University,69,,20,20
+151324,Indiana State University,69,221,20,20
+151102,Indiana University-Purdue University-Fort Wayne,76,,20,20
+175856,Jackson State University,54,221,20,20
+486840,Kennesaw State University,76,221,20,20
+226091,Lamar University,82,221,20,20
+232557,Liberty University,60,221,20,20
+220978,Middle Tennessee State University,100,221,20,20
+176044,Mississippi Valley State University,63,,20,20
+180461,Montana State University,71,,26,20
+163453,Morgan State University,73,221,20,20
+232937,Norfolk State University,44,,20,20
+199102,North Carolina A & T State University,75,221,20,20
+105330,Northern Arizona University,93,221,20,20
+160038,Northwestern State University of Louisiana,85,,20,20
+171571,Oakland University,90,221,20,20
+209807,Portland State University,80,221,20,20
+227526,Prairie View A & M University,56,221,20,20
+227881,Sam Houston State University,67,221,20,20
+140960,Savannah State University,56,,20,20
+218733,South Carolina State University,72,,20,20
+160612,Southeastern Louisiana University,75,,20,20
+160621,Southern University and A & M College,25,,20,20
+221838,Tennessee State University,67,221,20,20
+221847,Tennessee Technological University,81,,24,20
+224147,Texas A & M University-Corpus Christi,53,221,20,20
+229063,Texas Southern University,57,221,20,20
+228459,Texas State University,64,221,20,20
+228769,The University of Texas at Arlington,71,221,20,20
+228796,The University of Texas at El Paso,60,221,20,20
+229027,The University of Texas at San Antonio,60,221,20,20
+227368,The University of Texas Rio Grande Valley,71,221,20,20
+200800,University of Akron Main Campus,80,221,20,20
+106245,University of Arkansas at Little Rock,100,221,20,20
+160658,University of Louisiana at Lafayette,78,221,20,20
+159993,University of Louisiana at Monroe,20,221,20,20
+163338,University of Maryland Eastern Shore,100,221,20,20
+220862,University of Memphis,91,221,20,20
+181394,University of Nebraska at Omaha,83,221,20,20
+182281,University of Nevada-Las Vegas,70,221,20,20
+159939,University of New Orleans,33,221,20,20
+227216,University of North Texas,94,221,20,20
+127741,University of Northern Colorado,64,221,20,20
+102094,University of South Alabama,69,221,20,20
+206084,University of Toledo,58,221,20,20
+240453,University of Wisconsin-Milwaukee,36,221,20,20
+230737,Utah Valley University,50,,20,20
+156125,Wichita State University,63,221,20,20
+206604,Wright State University-Main Campus,83,221,20,20
+206695,Youngstown State University,80,,20,20
